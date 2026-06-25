@@ -40,18 +40,15 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 ### SQL Projects
 
 * E-commerce Sales Analysis
-* Customer Churn Analysis
 
 ### Power BI Projects
 
 * Sales Dashboard
-* HR Analytics Dashboard
 
 ### Python Projects
 
-* Netflix Data Analysis
-* Customer Segmentation Analysis
-
+* Customer Churn Analysis
+* 
 ## Learning Goals
 
 * Build real-world analytics projects

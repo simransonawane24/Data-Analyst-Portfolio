@@ -61,8 +61,8 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 ## Contact
 
-LinkedIn: linkedin.com/in/simran-sonawane24
+LinkedIn: https://www.linkedin.com/in/simran-sonawane24
 
-GitHub: github.com/simransonawane24
+GitHub: https://github.com/simransonawane24
 
 Email: simransonawane24@gmail.com

@@ -43,12 +43,12 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 ### Power BI Projects
 
-* Sales Dashboard
+* [Sales Dashboard](https://github.com/simransonawane24/PowerBI-Sales-Dashboard.git)
 
 ### Python Projects
 
-* Customer Churn Analysis
-* 
+* [Customer Churn Analysis](https://github.com/simransonawane24/Customer-Churn-Analysis.git)
+  
 ## Learning Goals
 
 * Build real-world analytics projects

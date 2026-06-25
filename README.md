@@ -39,7 +39,7 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 
 ### SQL Projects
 
-* E-commerce Sales Analysis
+* /SQL-Ecommerce-Analysis
 
 ### Power BI Projects
 
